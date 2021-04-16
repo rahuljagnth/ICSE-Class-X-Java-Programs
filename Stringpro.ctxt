@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=Stringpro(java.lang.String)
+comment1.params=c
+comment1.target=void\ count(char)
+comment2.params=s
+comment2.target=void\ compare(java.lang.String)
+numComments=3
